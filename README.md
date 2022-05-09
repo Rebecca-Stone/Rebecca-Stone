@@ -3,7 +3,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> Hello, World! </h1>
 
 
-[<img align="right" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>](https://github.com/Rebecca-Stone/github-readme-stats)
+[<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>](https://github.com/Rebecca-Stone/github-readme-stats)
 
 <br />
 
