@@ -11,7 +11,7 @@
 
 🌱 I’m Rebecca Stone! Full Stack Web Dev Student, at BloomTech <br />
 🤞🏻 I’m currently loving styling websites, and test driven debugging <br />
-📨 You can send me a message through 👉🏻 [<img src = "https://cdn.svgporn.com/logos/linkedin.svg" width='75' />](https://www.linkedin.com/in/rebecca-stone-734443229/)
+📨 You can send me a message through [<img src = "https://cdn.svgporn.com/logos/linkedin.svg" width='75' />](https://www.linkedin.com/in/rebecca-stone-734443229/)
 
 <br />
 
