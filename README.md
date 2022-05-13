@@ -3,6 +3,7 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> Hello, World! I'm Rebecca! </h1>
 
 <h4 align="center">✨ Full Stack Web Dev Student at BloomTech ✨</h4>
+<br />
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecca-stone&layout=compact"/>](https://github.com/Rebecca-Stone/github-readme-stats)
 
@@ -16,6 +17,7 @@
 📄 Want my [Resume?](https://docs.google.com/document/d/1w0u4IDKU6TxbHw_gnFdMQpebKLb4hkcM-p-_qqYnCTw/edit) <br />
 
 
+<br />
 <br />
 
 
