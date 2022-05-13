@@ -1,5 +1,3 @@
-<!-- Waving Hand -->
-
 <h1 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="45px"> Hello, World! I'm Rebecca! </h1>
 
 <h4 align="center">✨ Full Stack Web Dev Student at BloomTech ✨</h4>
@@ -10,7 +8,6 @@
 
 <br />
 
-<!-- 🌱 I’m Rebecca Stone! Full Stack Web Dev Student, at BloomTech <br /> -->
 🤞🏻 I’m currently loving styling websites, and test driven debugging <br />
 🔭 I’m currently working on [A Rock, Paper, Scissors Game](https://github.com/Rebecca-Stone/Rock-Paper-Scissors-WebGame)<br />
 📨 Connect and message me on [LinkedIn](https://www.linkedin.com/in/rebecca-stone-web-developer/)<br />
@@ -21,7 +18,7 @@
 <br />
 
 
-<h5 align="center">💻 Languages and Tools:</h5>
+<h4 align="center">👩🏼‍💻 Languages and Tools:</h4>
 <br />
 
 <div align="center">
