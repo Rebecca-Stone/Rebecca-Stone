@@ -9,8 +9,9 @@
 <br />
 
 🤞🏻 I’m currently loving styling websites, and test driven debugging <br />
-🔭 I’m currently working on [A Rock, Paper, Scissors Game](https://github.com/Rebecca-Stone/Rock-Paper-Scissors-WebGame)<br />
-📨 Connect and message me on [LinkedIn](https://www.linkedin.com/in/rebecca-stone-web-developer/)<br />
+💭 I'm also learning [Swift](https://www.swift.org/about/)
+🔭 My current project is [A Rock, Paper, Scissors Game](https://github.com/Rebecca-Stone/Rock-Paper-Scissors-WebGame)<br />
+📨 Connect with and message me on [LinkedIn](https://www.linkedin.com/in/rebecca-stone-web-developer/)<br />
 📄 Want my [Resume?](https://docs.google.com/document/d/1w0u4IDKU6TxbHw_gnFdMQpebKLb4hkcM-p-_qqYnCTw/edit) <br />
 
 
