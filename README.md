@@ -6,7 +6,7 @@
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rebecca-stone&layout=compact"/>](https://github.com/Rebecca-Stone/github-readme-stats)
 
 🤞🏻 I’m currently loving [problem solving](https://app.codesignal.com/profile/rebecca_stone), and [test driven debugging](https://app.codesignal.com/coding-report/gca-coding-report/bbkuwkhePctfy7cFg) <br />
-🔭 My todo list includes coverting multiple [projects](https://github.com/Rebecca-Stone/web-unit-1-bw-advanced-assignments) to [React](https://reactjs.org/)<br />   
+🔭 My todo list includes coverting multiple [projects](https://github.com/Rebecca-Stone/web-unit-1-bw-advanced-assignments) to [React](https://reactjs.org/)<br />
 👀 Keep an eye on my [Vercel](https://vercel.com/dashboard) and [Heroku](https://dashboard.heroku.com/apps) <br />
 📨 Connect with and message me on [LinkedIn](https://www.linkedin.com/in/rebecca-stone-web-developer/)<br />
 
